@@ -6,7 +6,7 @@
 - ``ICTAI 2022`` <span style="color:red">(CCF C)</span> [Convolutional Transformer with Similarity-based Boundary Prediction for Action Segmentation](https://ieeexplore.ieee.org/abstract/document/10097931/), **Dazhao Du**, Bing Su, Yu Li, Zhongang Qi, Lingyu Si, Ying Shan.
 
 ## 🌊 Underwater Video/Image Enhancement
-- ``ESWA 2024`` <span style="color: red;">(CCF C, JCR Q1, IF=7.5)</span>  [UIEDP: Boosting Underwater Image Enhancement with Diffusion Prior](https://arxiv.org/pdf/2312.06240), **Dazhao Du**, Enhan Li, Lingyu Si, Wenlong Zhai, Fanjiang Xu, Jianwei Niu, Fuchun Sun. 
+- ``ESWA 2024`` <span style="color: red;">(CCF C, JCR Q1, IF=7.5)</span>  [UIEDP: Boosting Underwater Image Enhancement with Diffusion Prior](https://www.sciencedirect.com/science/article/pii/S0957417424021389), **Dazhao Du**, Enhan Li, Lingyu Si, Wenlong Zhai, Fanjiang Xu, Jianwei Niu, Fuchun Sun. 
 - ``Arxiv 2024`` [A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation](https://arxiv.org/pdf/2407.04230), **Dazhao Du**, Enhan Li, Lingyu Si, Fanjiang Xu, Jianwei Niu, Fuchun Sun.
 - ``Arxiv 2024`` [End-To-End Underwater Video Enhancement: Dataset and Model](https://arxiv.org/pdf/2403.11506), **Dazhao Du**, Enhan Li, Lingyu Si, Fanjiang Xu, Jianwei Niu.
 
